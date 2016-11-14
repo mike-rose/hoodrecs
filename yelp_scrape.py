@@ -2,6 +2,8 @@
 """
 Created on Sun Nov 06 15:19:20 2016
 
+Mike made a small change to this file
+
 @author: sneha
 """
 import urllib2
